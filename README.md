@@ -60,6 +60,4 @@ Cisco機器を使ったエンタープライズネットワークの設計・構
 ## 作成者
 
 **Kaintura Mahendra**  
-専門学校 中野スクールオブビジネス プログラミングビジネス科  
-JLPT N1 / TOEIC 575  
 suraj.kaintura13@gmail.com
